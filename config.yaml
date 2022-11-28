@@ -1,4 +1,17 @@
 baseURL: "https://example.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Riki WalianDani"
 pygmentsstyle: 'monokai'
+
+paginate = 6
+
+[social]
+twitter= "https://twitter.com/forestryio"
+github= "https://github.com/forestryio/novela-hugo-starter"
+linkedin= "https://www.linkedin.com/company/forestry.io"
+instagram = "#"
+dribbble = "#"
+youtube = "#"
+
+[taxonomies]
+author = "authors"
